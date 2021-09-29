@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Statistics::StatisticalTest::WilcoxonRankSignTest do
+describe Statistics::StatisticalTest::WilcoxonSignedRankTest do
   let(:test_class) { described_class.new }
 
   

@@ -1,6 +1,6 @@
 module Statistics
   module StatisticalTest
-    class WilcoxonRankSignTest
+    class WilcoxonSignedRankTest
 
     # Perform the calculation from list of rank pairs
     # method based on https://www.statstutor.ac.uk/resources/uploaded/wilcoxonsignedranktest.pdf
